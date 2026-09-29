@@ -24,6 +24,8 @@ Users can navigate between the Login and Registration pages through the provided
 * Login button
 * Forgot Password option
 * Navigation to the Registration Page
+<img width="645" height="938" alt="Screenshot 2026-09-29 130824" src="https://github.com/user-attachments/assets/8436cb76-7a1c-4fb0-aabf-6cf4d6f861db" />
+
 
 ### 📝 Registration Page
 
@@ -34,6 +36,7 @@ Users can navigate between the Login and Registration pages through the provided
 * Confirm Password input field
 * Create Account/Register button
 * Navigation back to the Login Page
+<img width="647" height="920" alt="Screenshot 2026-09-29 130835" src="https://github.com/user-attachments/assets/7e35305a-494a-42ef-8138-0273dd1a943d" />
 
 ### 🎨 User Interface
 
